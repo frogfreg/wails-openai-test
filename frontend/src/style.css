@@ -2,15 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
-
 /* this should be the base color #B6A4F5 */
 
 .bg-mydark {
     background-color: #2c2056;
 }
 
+.bg-mygrey {
+    background-color: #574f75;
+}
+
 body {
     color: #efecfd;
     background-color: #2c2056;
-    font-family: 'Nunito', sans-serif;
+    font-family: "Nunito", sans-serif;
 }
